@@ -67,9 +67,9 @@
         ],
         "sources": [
             {
-                "type": "git",
-                "url": "https://github.com/flaviotordini/minitube/",
-                "commit": "130ab4f8f300ae14ebf0d624ee1e73abdb32d58e"
+                "type": "archive",
+                "url": "https://github.com/flaviotordini/minitube/archive/2.9.tar.gz",
+                "sha256": "0f51fb86d0fdfbcf00af142868ceeacb6c27eb8a1e36d856162e23d63e90eb07"
             }
         ]
     }
