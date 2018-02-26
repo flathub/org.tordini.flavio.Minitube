@@ -30,11 +30,10 @@
     },
     {
         "name": "minitube",
-        "buildsystem": "simple",
-        "build-commands": [
-            "qmake \"DEFINES += APP_GOOGLE_API_KEY=AIzaSyAyTdYPI-xHdBFeKx7eFyHFlR7dhuph9jY\" PREFIX=/app",
-            "make",
-            "make install"
+        "buildsystem": "qmake",
+        "config-opts": [
+            "CONFIG += release",
+            "DEFINES += APP_GOOGLE_API_KEY=AIzaSyAyTdYPI-xHdBFeKx7eFyHFlR7dhuph9jY"
         ],
         "sources": [
             {
