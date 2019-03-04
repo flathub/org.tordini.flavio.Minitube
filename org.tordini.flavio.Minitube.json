@@ -19,16 +19,6 @@
     ],
     "modules": [
     {
-        "name": "gst-libav",
-        "config-opts": [ "--disable-gtk-doc", "--with-system-libav" ],
-        "cleanup": [ "*.la", "/share/gtk-doc" ],
-        "sources": [{
-            "type": "archive",
-            "url": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.10.4.tar.xz",
-            "sha256": "6ca0feca75e3d48315e07f20ec37cf6260ed1e9dde58df355febd5016246268b"
-        }]
-    },
-    {
         "name": "minitube",
         "buildsystem": "qmake",
         "config-opts": [
