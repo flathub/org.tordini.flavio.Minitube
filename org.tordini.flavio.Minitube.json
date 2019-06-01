@@ -28,8 +28,8 @@
         "sources": [
             {
                 "type": "archive",
-                "url": "https://github.com/flaviotordini/minitube/archive/2.9.tar.gz",
-                "sha256": "0f51fb86d0fdfbcf00af142868ceeacb6c27eb8a1e36d856162e23d63e90eb07"
+                "url": "https://github.com/flaviotordini/minitube/archive/3.0.tar.gz",
+                "sha256": "682f6f45fc42fc28ca36e65a1cc6ee82d7982e45db3a786c50823e5030b508ef"
             }
         ]
     }
