@@ -2,7 +2,7 @@
     "app-id": "org.tordini.flavio.Minitube",
     "branch": "stable",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.9",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "minitube",
     "rename-desktop-file": "minitube.desktop",
@@ -18,16 +18,6 @@
         "--talk-name=org.freedesktop.ScreenSaver"
     ],
     "modules": [
-    {
-        "name": "gst-libav",
-        "config-opts": [ "--disable-gtk-doc", "--with-system-libav" ],
-        "cleanup": [ "*.la", "/share/gtk-doc" ],
-        "sources": [{
-            "type": "archive",
-            "url": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.10.4.tar.xz",
-            "sha256": "6ca0feca75e3d48315e07f20ec37cf6260ed1e9dde58df355febd5016246268b"
-        }]
-    },
     {
         "name": "minitube",
         "buildsystem": "qmake",
