@@ -113,14 +113,13 @@
         "name": "minitube",
         "buildsystem": "qmake",
         "config-opts": [
-            "CONFIG += release",
             "DEFINES += APP_GOOGLE_API_KEY=AIzaSyAyTdYPI-xHdBFeKx7eFyHFlR7dhuph9jY"
         ],
         "sources": [
             {
                 "type": "git",
                 "url": "https://github.com/flaviotordini/minitube.git",
-                "commit": "06eb9782f8aad461bc37f8d00a53473a5deb8b46"
+                "commit": "1ef809fc22620a8ceab5ef32f57fa7ee18a9f9ee"
             }
         ]
     }
