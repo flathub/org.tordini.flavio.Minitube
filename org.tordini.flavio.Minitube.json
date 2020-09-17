@@ -120,6 +120,10 @@
                 "type": "git",
                 "url": "https://github.com/flaviotordini/minitube.git",
                 "commit": "4aa1b89e1787f591475f3ecb7cca987bd08a85c1"
+            },
+            {
+                "type": "patch",
+                "path": "appdata.patch"
             }
         ]
     }
