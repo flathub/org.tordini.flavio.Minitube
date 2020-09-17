@@ -19,10 +19,10 @@ index 9789fa1..2f45a8a 100644
 +      Watch YouTube videos in a new way: you type a keyword, Minitube gives you an endless video stream. Minitube is not about cloning the YouTube website, it aims to create a new TV-like experience.
      </p>
 +    <ol>
-+     <li><em>Light on your computer</em>. By consuming less CPU and less memory than a web browser, Minitube preserves battery life and keeps your laptop cool.</li>
-+     <li><em>Great for kids!</em> Very easy to use and with filters for inappropriate content.</li>
-+     <li><em>Channel subscriptions</em> Subscribe to YouTube channels and be notified of new videos. No need to login with a YouTube account: more privacy! </li>
-+     <li><em>Stop fiddling</em> Just search for something. Minitube automatically plays videos one after another. Sit back and enjoy.</li>
++     <li>Light on your computer - By consuming less CPU and less memory than a web browser, Minitube preserves battery life and keeps your laptop cool.</li>
++     <li>Great for kids! - Very easy to use and with filters for inappropriate content.</li>
++     <li>Channel subscriptions - Subscribe to YouTube channels and be notified of new videos. No need to login with a YouTube account: more privacy! </li>
++     <li>Stop fiddling - Just search for something. Minitube automatically plays videos one after another. Sit back and enjoy.</li>
 +    </ol>
    </description>
    <url type="homepage">http://flavio.tordini.org/minitube</url>
