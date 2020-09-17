@@ -7,7 +7,8 @@ index 9789fa1..2f45a8a 100644
 -<component>
 +<component type="desktop-application">
    <name>Minitube</name>
-   <id>org.tordini.flavio.minitube</id>
+-  <id>org.tordini.flavio.minitube</id>
++  <id>org.tordini.flavio.Minitube</id>
    <metadata_license>CC0-1.0</metadata_license>
 -  <project_license>GPL-3.0+</project_license>
 +  <project_license>GPL-3.0-or-later</project_license>
