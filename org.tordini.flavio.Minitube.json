@@ -6,7 +6,7 @@
     "sdk": "org.kde.Sdk",
     "command": "minitube",
     "rename-desktop-file": "minitube.desktop",
-    "rename-appdata-file": "minitube.appdata.xml",
+    "rename-appdata-file": "org.tordini.flavio.minitube.metainfo.xml",
     "rename-icon": "minitube",
     "copy-icon": true,	
     "finish-args": [
