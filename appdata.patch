@@ -1,13 +1,13 @@
 diff --git a/org.tordini.flavio.minitube.metainfo.xml b/org.tordini.flavio.minitube.metainfo.xml
-index 2f45a8aa..9815df0c 100644
+index 9815df0..45e3a7f 100644
 --- a/org.tordini.flavio.minitube.metainfo.xml
 +++ b/org.tordini.flavio.minitube.metainfo.xml
-@@ -36,7 +36,7 @@
-   <url type="donation">https://flavio.tordini.org/donate</url>
-   <url type="translate">https://www.transifex.com/flaviotordini/minitube/</url>
-   <releases>
--    <release version="3.6.1" date="2020-09-10"/>
-+    <release version="3.7" date="2020-12-30"/>
-   </releases>
-   <content_rating type="oars-1.1">
-     <content_attribute id="violence-cartoon">intense</content_attribute>
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <component type="desktop-application">
+   <name>Minitube</name>
+-  <id>org.tordini.flavio.minitube</id>
++  <id>org.tordini.flavio.Minitube</id>
+   <metadata_license>CC0-1.0</metadata_license>
+   <project_license>GPL-3.0-or-later</project_license>
+   <summary>YouTube app</summary>
