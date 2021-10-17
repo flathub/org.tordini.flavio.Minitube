@@ -101,8 +101,8 @@
                 "sources" : [
                     {
                         "type": "archive",
-                        "url": "https://www.ffmpeg.org/releases/ffmpeg-4.2.1.tar.xz",
-                        "sha256": "cec7c87e9b60d174509e263ac4011b522385fd0775292e1670ecc1180c9bb6d4"
+                        "url": "https://www.ffmpeg.org/releases/ffmpeg-4.4.tar.xz",
+                        "sha256": "06b10a183ce5371f915c6bb15b7b1fffbe046e8275099c96affc29e17645d909"
                     }
                 ]
             }
