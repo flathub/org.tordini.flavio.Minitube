@@ -112,13 +112,15 @@
         "name": "minitube",
         "buildsystem": "qmake",
         "config-opts": [
-            "unix:LIBS += -L/app/lib/ -lmpv"
+            "CONFIG+=force_debug_info",
+            "QMAKE_LIBDIR=/app/lib"
         ],
         "sources": [
             {
                 "type": "git",
                 "url": "https://github.com/flaviotordini/minitube.git",
-                "commit": "11ab0c5f12ca4ae3df74ec2fe955b5afdf78c2be"
+                "tag": "3.9.1",
+                "commit": "185bb6682ecfdffcf61d9fe28b3a427a5dbd6ab0"
             },
             {
                 "type": "patch",
