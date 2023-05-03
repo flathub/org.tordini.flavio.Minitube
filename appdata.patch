@@ -1,5 +1,5 @@
 diff --git a/org.tordini.flavio.minitube.metainfo.xml b/org.tordini.flavio.minitube.metainfo.xml
-index 9815df0..45e3a7f 100644
+index 884b05c..04db782 100644
 --- a/org.tordini.flavio.minitube.metainfo.xml
 +++ b/org.tordini.flavio.minitube.metainfo.xml
 @@ -1,7 +1,7 @@
@@ -8,6 +8,6 @@ index 9815df0..45e3a7f 100644
    <name>Minitube</name>
 -  <id>org.tordini.flavio.minitube</id>
 +  <id>org.tordini.flavio.Minitube</id>
+   <launchable type="desktop-id">minitube.desktop</launchable>
    <metadata_license>CC0-1.0</metadata_license>
    <project_license>GPL-3.0-or-later</project_license>
-   <summary>YouTube app</summary>
