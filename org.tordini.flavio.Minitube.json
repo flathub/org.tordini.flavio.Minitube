@@ -1,7 +1,7 @@
 {
     "app-id": "org.tordini.flavio.Minitube",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-24.08",
+    "runtime-version": "5.15-21.08",
     "sdk": "org.kde.Sdk",
     "command": "minitube",
     "rename-desktop-file": "minitube.desktop",
